@@ -32,4 +32,4 @@ L'algorithme fonctionne en prenant en entrée les caractéristiques géométriqu
 
 ## Livrables attendus
 
-Le projet a produit un code en Python contenant tous les traitements et tests effectués, ainsi que l'application finale.
+Le projet a produit un code en Python contenant tous les traitements et tests effectués
