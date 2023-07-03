@@ -1,5 +1,7 @@
 # Algorithme de détection automatique de faux billets
 
+Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.
+
 ## Description
 
 Ce projet concerne le développement d'un algorithme pour la détection automatique de billets contrefaits. Il a été commandé par l'Organisation Nationale de Lutte contre la Contrefaçon (ONCFM). L'algorithme est capable d'identifier les vrais billets des faux en se basant sur certaines dimensions du billet et des éléments qui le composent.
